@@ -1,0 +1,26 @@
+{
+  "cam_main_gate": {
+    "default_zone_id": 1,
+    "polygons": [
+      {
+        "zone_id": 1,
+        "name": "Main Gate & Entry Plaza",
+        "points": [[0, 0], [1280, 0], [1280, 720], [0, 720]]
+      }
+    ]
+  },
+  "cam_quad": {
+    "polygons": [
+      {
+        "zone_id": 2,
+        "name": "Auditorium Hall A",
+        "points": [[0, 0], [640, 0], [640, 720], [0, 720]]
+      },
+      {
+        "zone_id": 3,
+        "name": "Central Food Court",
+        "points": [[640, 0], [1280, 0], [1280, 720], [640, 720]]
+      }
+    ]
+  }
+}
